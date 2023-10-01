@@ -15,6 +15,6 @@ while i<numberofAttemptsAllowed:
     elif choice=="yes":
             if i==numberofAttemptsAllowed:
                 
-                print("Enjoy your calculation spree")
+                print("Enjoy your calculation spree :)")
     i+=1
 print("Sorry to say, but you exeeded the number of attempts")
