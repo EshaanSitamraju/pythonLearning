@@ -15,6 +15,6 @@ while i<numberofAttemptsAllowed:
         break
     else:
         if i==numberofAttemptsAllowed:
-            print("Enjoy your addition spree")
+            print("Enjoy your addition spree :)")
     i+=1
  print("Sorry to say, but you exeeded the number of attempts")
